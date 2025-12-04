@@ -14,10 +14,7 @@ app.use(express.static('public'));
 
 // --- CONFIGURATION ---
 const TARGET_URLS = [
-    "https://www.effectivegatecpm.com/r725te76uw?key=04f8b841f68182f53ad37684de3aa371",
-    "https://www.effectivegatecpm.com/ikugmsducv?key=c88a7fa11759afeb0762e807be2a733b",
-    "https://www.effectivegatecpm.com/nd95vv26?key=bdc924640082af3bd9415bb455c45377",
-    "https://www.effectivegatecpm.com/vwg0n0rh?key=7c8a5936a39f21ff9056f968c5e9937c"
+    "www.anigadgetsbd.app"
 ];
 
 let bots = [];
